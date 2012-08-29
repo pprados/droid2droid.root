@@ -1,0 +1,16 @@
+[submodule "actionbarsherlock"]
+	path = actionbarsherlock
+	url = https://github.com/JakeWharton/ActionBarSherlock.git
+
+[submodule "ActionBarSherlock"]
+	path = ActionBarSherlock
+	url = https://github.com/JakeWharton/ActionBarSherlock.git
+[submodule "droid2droid"]
+	path = droid2droid
+	url = https://code.google.com/p/droid2droid.droid2droid/
+[submodule "droid2droid-sharedlib"]
+	path = droid2droid-sharedlib
+	url = https://code.google.com/p/droid2droid.sharedlib/
+[submodule "droid2droid-lib"]
+	path = droid2droid-lib
+	url = https://code.google.com/p/droid2droid.lib/
